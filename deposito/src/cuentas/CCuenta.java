@@ -1,5 +1,11 @@
 package cuentas;
 
+/** Este es el primer comentario tipo javadoc para la realización de la Tarea 4
+ * 
+ * @author lucia
+ *  
+ *  */
+
 public class CCuenta {
 	
     private String nombre;
@@ -46,4 +52,9 @@ public class CCuenta {
 	private void setAtri(double tipoInterés) {
 		this.tipoInterés = tipoInterés;
 	}
+	/** Este es el último comentario para cerrar el ejercicio
+	 * 
+	 *   @author lucia
+	 *   
+	 */
 }
